@@ -1,5 +1,4 @@
 # hello-world
-hello-repository
 
 hello, world.
 
